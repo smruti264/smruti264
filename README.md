@@ -46,8 +46,8 @@ With strong foundations in *network protocols, security frameworks, cloud system
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bishnuprasadpanda&show_icons=true&locale=en&layout=compact" width="300" height="200" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=bishnuprasadpanda&show_icons=true&locale=en" width="400" height="200" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=smruti264&show_icons=true&locale=en&layout=compact" width="300" height="200" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=smruti264&show_icons=true&locale=en" width="400" height="200" alt="GitHub Stats" />
 </p>
 
 ---
@@ -55,9 +55,9 @@ With strong foundations in *network protocols, security frameworks, cloud system
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://bishnuprasadpanda.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Bishnu|Portfolio-%210008B.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
-  <a href="https://linkedin.com/in/bishnuprasadpanda" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://instagram.com/bishnuprasadpanda" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://smruti264.github.io/portfolio-website/"><img src="https://img.shields.io/badge/Smruti|Portfolio-%210008B.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/smruti-ranjan-sahoo-527609284/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://instagram.com/s.raja_13" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
 ---
